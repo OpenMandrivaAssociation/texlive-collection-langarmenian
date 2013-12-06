@@ -7,7 +7,7 @@
 Name:		texlive-collection-langarmenian
 Epoch:		1
 Version:	20120224
-Release:	3
+Release:	4
 Summary:	Armenian
 Group:		Publishing
 URL:		http://tug.org/texlive
